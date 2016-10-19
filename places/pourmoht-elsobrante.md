@@ -2,6 +2,7 @@
 
 ### Places to Eat
 - Bear Claw Bakery
+- Quick change
 
 ### Places to Avoid
 - El Sobrante (just live there and you will understand)
@@ -11,4 +12,4 @@
 - Briones Regional Park
 
 ### Fun Facts
-- Drummer for Metallica lived there once... 
+- Drummer for Metallica lived there once...
