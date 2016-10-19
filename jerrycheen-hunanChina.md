@@ -9,9 +9,12 @@
 
 ### Places to avoid
 - East
+- North Country
 
 ### Places to go
 - Mountain
+- Legoland
+
 
 ### For facts
 - Nice weather
