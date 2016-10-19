@@ -20,5 +20,3 @@
 - Motown
 - Motor City
 - Arsenal of Democracy
-
-# End of File
