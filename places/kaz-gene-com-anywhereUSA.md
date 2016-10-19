@@ -12,4 +12,5 @@
 - [?] Van (down by the river...)
 
 ## Where to get :cash
-* Bank of America
+* Bank of Italy
+* Paypal
