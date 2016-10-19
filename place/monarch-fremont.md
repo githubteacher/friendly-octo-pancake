@@ -1,9 +1,9 @@
 # Fremont, CA
 
 ### Places to Eat - 
-- Kabila
-- Mosimo
-- Sakoon
+- Kabila (Indian)
+- Mosimo (Italian)
+- Sakoon (Indian)
 
 ### Places to Avoid 
 - None
