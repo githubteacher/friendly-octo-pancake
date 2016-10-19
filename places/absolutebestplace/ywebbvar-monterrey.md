@@ -6,6 +6,7 @@ Monterrey is a lovely town of about 4 million people. It sits in the Northeast o
 - El Rey del Cabrito
 - El Regio
 - Las enchiladas de Residencial Anahuac
+- Tacos Popos
 
 ### Places to Avoid
 - The neighborhood: el patio de mi casa
