@@ -11,6 +11,7 @@
 - Brightmoor
 - Cass Corridor
 - Gratiot
+- Andiamo
 
 ### Places to Go
 - Campus Martius
@@ -21,5 +22,8 @@
 - Motown
 - Motor City
 - Arsenal of Democracy
+<<<<<<< HEAD
+=======
 
 # CONFLICT
+>>>>>>> refs/remotes/origin/master
