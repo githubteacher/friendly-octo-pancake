@@ -8,11 +8,14 @@
 
 ## Places to :crash
 - [x] underpass
-- [ ] motel 6
+- [X] motel 6
 - [ ] Seaside escape
 - [?] Van (down by the river...)
 
 ## Where to get :cash
-* Bank of Italy
+* Bank of ~~Italy~~ America
 * Paypal
 * via gunpoint!
+
+## Party Scene
+:+ Van down by the river!
