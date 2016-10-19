@@ -5,6 +5,7 @@
 - Roast
 - Green Dot Stables
 - Slows BBQ
+- Andiamo
 
 ### Places to Avoid
 - Brightmoor
@@ -21,3 +22,8 @@
 - Motown
 - Motor City
 - Arsenal of Democracy
+<<<<<<< HEAD
+=======
+
+# CONFLICT
+>>>>>>> refs/remotes/origin/master

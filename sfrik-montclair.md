@@ -7,6 +7,12 @@
 
 ### Places to Avoid
 - South Fullerton Ave
+- nutley
+- irvington
+- newark
+- asdfasdf
+- dsfasdf
+- asdfasdf
 
 
 
