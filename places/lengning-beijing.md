@@ -12,6 +12,13 @@ Subway in rush hours
 
 Many
 
+- summer palace
+
+- forbidden city
+
+- the great wall
+
+
 ### Fun facts
 
 * Great food
