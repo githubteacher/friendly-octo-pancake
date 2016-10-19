@@ -7,9 +7,13 @@
 
 ### Places to Avoid
 - Sea World
+- El Cajon
+- North County
 
 ### Places to Go
 - Coronado
+- Legoland
+- Disneyland
 
 ### Fun Facts
 - It's 90 degrees. We don't have fall.
