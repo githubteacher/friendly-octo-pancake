@@ -5,6 +5,6 @@
 ### Places to Avoid
 *That Greek place I forgot the name*
 ### Places to Go
-*Old Capital Building*
+*Walk down Main Street*
 ### Fun Facts
 *Benicia was once the state capital*
