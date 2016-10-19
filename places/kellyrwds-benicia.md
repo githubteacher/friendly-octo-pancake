@@ -7,4 +7,4 @@
 ### Places to Go
 *Old Capital Building*
 ### Fun Facts
-*Benicia was once the state capital for CA*
+*Benicia was once the state capital*
