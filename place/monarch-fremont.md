@@ -1,17 +1,18 @@
 # Fremont, CA
 
-### Places to Eat - 
+### Places to Eat -
 - Kabila (Indian)
 - Mosimo (Italian)
 - Sakoon (Indian)
 
-### Places to Avoid 
+### Places to Avoid
 - None
 
-### Places to GO 
+### Places to GO
 - Lake Elizabeth
 - Coyote Hills
 - Mission Peak
 
-### Fun Facts 
+### Fun Facts
 - Best place to live :)
+- Good Schools
