@@ -4,7 +4,7 @@
 1. Meatballs
 1. Cat noodles
 1. Miced pork rice
-
+1. Stinky tofu
 
 
 ### Places to avoid
