@@ -5,6 +5,7 @@
 - Dunkin' Donuts
 
 ### Places to Avoid
+- cant think of any
 
 
 ### Places to Go
