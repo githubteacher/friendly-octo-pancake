@@ -4,6 +4,9 @@
 
 Gui Street (downtown)
 
+- need new places
+
+
 ### Places to avoid
 
 Subway in rush hours
