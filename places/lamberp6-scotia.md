@@ -3,6 +3,7 @@
 ### Places to Eat
 - Jumpin' Jacks
 - Dunkin' Donuts
+- Glenville Queen
 
 ### Places to Avoid
 - cant think of any
@@ -15,3 +16,5 @@
 
 ### Fun Facts
 https://en.wikipedia.org/wiki/Scotia,_New_York
+
+
