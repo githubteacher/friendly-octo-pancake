@@ -2,9 +2,12 @@
 ### Places to Eat
 - Blue Bottle
 - Tartin
+
 - Sightglass coffee
 - Quick change
 - THIS A CHANGE
+
+>>>>>>> hsieh-twostagecommit
 
 ### Places to Avoid
 - sea world
