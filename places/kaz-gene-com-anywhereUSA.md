@@ -13,7 +13,9 @@
 - [?] Van (down by the river...)
 
 ## Where to get :cash
-* Bank of the West!
+* Bank of ~~Italy~~ America
 * Paypal
 * via gunpoint!
-* new master line.
+
+## Party Scene
+:+ Van down by the river!
