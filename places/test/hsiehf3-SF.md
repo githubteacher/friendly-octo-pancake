@@ -2,6 +2,7 @@
 ### Places to Eat
 - Blue Bottle
 - Tartin
+- Sightglass
 
 
 ### Places to Avoid
