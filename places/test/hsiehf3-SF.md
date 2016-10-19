@@ -7,15 +7,17 @@
 - Quick change
 - THIS A CHANGE
 
->>>>>>> hsieh-twostagecommit
-
 ### Places to Avoid
 - sea world
 - Disneyland
+- OC
+- Balbo Park
 
 ### Places to Go
 - sausalito
 - NAPA
+- Baker Beach
+- Golden Gate Park
 
 ### Fun Facts
 - It's 70 degrees. We don't have fall.
