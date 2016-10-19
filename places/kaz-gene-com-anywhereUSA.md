@@ -4,6 +4,7 @@
 1. Hometown dinner
 2. ???
 3. Profit!
+4. CONFLICT!
 
 ## Places to :crash
 - [x] underpass
