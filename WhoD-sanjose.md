@@ -18,4 +18,4 @@
 
 - We need water
 
-- It's 90 degrees
+- It's 90 degrees outside. 
