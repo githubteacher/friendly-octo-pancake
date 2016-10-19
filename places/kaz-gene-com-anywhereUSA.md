@@ -4,16 +4,15 @@
 1. Hometown dinner
 2. ???
 3. Profit!
-4. CONFLICT! (with differential equations.)
+4. CONFLICT! (with diff)
 
 ## Places to :crash
 - [x] underpass
-- [Y] motel 6
+- [ ] motel 6
 - [ ] Seaside escape
 - [?] Van (down by the river...)
 
 ## Where to get :cash
-* Bank of the West!
+* Bank of Italy
 * Paypal
 * via gunpoint!
-* new master line.
