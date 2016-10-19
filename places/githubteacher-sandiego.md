@@ -10,11 +10,13 @@
 - Sea World
 - El Cajon
 - North County
+- Chula Vista
 
 ### Places to Go
 - Coronado
 - Legoland
 - Disneyland
+- Balboa Park
 
 ### Fun Facts
 - It's 90 degrees. We don't have fall.
