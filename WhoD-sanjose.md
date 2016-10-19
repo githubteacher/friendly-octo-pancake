@@ -6,6 +6,8 @@
 
 - Estradas
 
+- Quick Change
+
 ### Places to Avoid
 
 - Sea World
@@ -18,4 +20,4 @@
 
 - We need water
 
-- It's 90 degrees outside. 
+- It's 90 degrees outside.
