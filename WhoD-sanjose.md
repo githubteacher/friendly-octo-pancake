@@ -8,13 +8,21 @@
 
 - Quick Change
 
+- The NEW CHANGES
+
 ### Places to Avoid
 
 - Sea World
 
+- North County
+
 ### Places to Go
 
 - Coronado
+
+- Legoland
+
+- North Park
 
 ### Fun Facts
 
