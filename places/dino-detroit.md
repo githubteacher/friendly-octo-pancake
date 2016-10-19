@@ -10,6 +10,7 @@
 - Brightmoor
 - Cass Corridor
 - Gratiot
+- Andiamo
 
 ### Places to Go
 - Campus Martius
