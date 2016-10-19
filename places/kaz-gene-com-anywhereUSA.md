@@ -9,6 +9,7 @@
 - [x] underpass
 - [ ] motel 6
 - [ ] Seaside escape
+- [?] Van (down by the river...)
 
 ## Where to get :cash
 * ???
