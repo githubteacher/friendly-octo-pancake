@@ -6,12 +6,14 @@
 1. Miced pork rice
 1. Stinky tofu
 1. Quick change
+1. KFC
+1. night market
 
 ### Places to avoid
 - back alley
-
+- chemical plant
 ### Places to go
 - big budda
-
-
+- train station
+- ranch
 ### Fun fact
