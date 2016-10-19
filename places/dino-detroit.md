@@ -9,6 +9,7 @@
 ### Places to Avoid
 - Brightmoor
 - Cass Corridor
+- Gratiot
 
 ### Places to Go
 - Campus Martius
