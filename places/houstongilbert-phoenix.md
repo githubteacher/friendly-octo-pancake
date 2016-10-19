@@ -7,6 +7,7 @@
 
 ### Places to avoid
 - Mesa
+- Change: Also, Glendale
 
 ### Places to go
 - The Womack
