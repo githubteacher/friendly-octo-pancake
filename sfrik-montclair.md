@@ -4,8 +4,10 @@
 - Raymonds
 
 
+
 ### Places to Avoid
 - South Fullerton Ave
+
 
 
 
@@ -13,7 +15,8 @@
 - Wellmont Theatre
 
 
+
 ### Fun Facts
 - Famous residents
  - Yogi Berra
- - 
+ - Joe Walsh (eagles)
