@@ -10,10 +10,12 @@
 ### Places to avoid
 - East
 - North Country
+- conflict branch 2
 
 ### Places to go
 - Mountain
 - Legoland
+- conflict branch 2
 
 
 ### For facts
