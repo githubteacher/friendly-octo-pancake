@@ -4,7 +4,7 @@
 - Bear Claw Bakery
 
 ### Places to Avoid
-- El Sobrante
+- El Sobrante (just live there and you will understand)
 
 ### Places to Go
 - San Pablo Dam Reservoir
