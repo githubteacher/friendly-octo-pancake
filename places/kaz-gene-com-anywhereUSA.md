@@ -14,3 +14,4 @@
 ## Where to get :cash
 * Bank of Italy
 * Paypal
+* via gunpoint!
