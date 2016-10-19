@@ -3,6 +3,7 @@
 ### Places to Eat
 - City Tacos
 - Sushi N' Joy
+- Quick change
 
 ### Places to Avoid
 - Sea World
