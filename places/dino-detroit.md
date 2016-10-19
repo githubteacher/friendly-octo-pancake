@@ -5,11 +5,13 @@
 - Roast
 - Green Dot Stables
 - Slows BBQ
+- Andiamo
 
 ### Places to Avoid
 - Brightmoor
 - Cass Corridor
 - Gratiot
+- Andiamo
 
 ### Places to Go
 - Campus Martius
@@ -19,5 +21,9 @@
 ### Fun Facts
 - Motown
 - Motor City
+- Arsenal of Democracy
+<<<<<<< HEAD
+=======
 
-# End of File
+# CONFLICT
+>>>>>>> refs/remotes/origin/master
