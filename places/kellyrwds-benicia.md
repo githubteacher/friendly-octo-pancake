@@ -2,6 +2,7 @@
 
 ### Places to Eat
 *Pizza Pirate*
+*Pacifica Pizza*
 ### Places to Avoid
 *That Greek place I forgot the name*
 ### Places to Go
