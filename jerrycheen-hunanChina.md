@@ -5,6 +5,7 @@
 - Central
 - North
 - South
+- Basic change
 
 ### Places to avoid
 - East
