@@ -5,7 +5,8 @@ Monterrey is a lovely town of about 4 million people. It sits in the Northeast o
 ### Places to Eat
 - El Rey del Cabrito
 - El Regio
-- Hawaii 5/0 (this one doesn't exist anymore)
+- Hawaii 5/0 (this one doesn't exist anymore, or does it?)
+- Tacos Popos
 
 ### Places to Avoid
 - The neighborhood: el patio de mi casa
