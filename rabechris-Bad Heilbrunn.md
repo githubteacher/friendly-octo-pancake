@@ -8,3 +8,4 @@
 
 ### Fun Facts
 - It's snowing right now
+- Winter is very cold
