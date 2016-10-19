@@ -4,6 +4,7 @@
 1. Hometown dinner
 2. ???
 3. Profit!
+4. CONFLICT! (with diff)
 
 ## Places to :crash
 - [x] underpass
@@ -14,3 +15,4 @@
 ## Where to get :cash
 * Bank of Italy
 * Paypal
+* via gunpoint!
